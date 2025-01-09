@@ -1,0 +1,15 @@
+/root/unity3d_udemy/bichinhoVirtual/projeto_bichinhoVirtual/bin/Debug/net8.0/projeto_bichinhoVirtual
+/root/unity3d_udemy/bichinhoVirtual/projeto_bichinhoVirtual/bin/Debug/net8.0/projeto_bichinhoVirtual.deps.json
+/root/unity3d_udemy/bichinhoVirtual/projeto_bichinhoVirtual/bin/Debug/net8.0/projeto_bichinhoVirtual.runtimeconfig.json
+/root/unity3d_udemy/bichinhoVirtual/projeto_bichinhoVirtual/bin/Debug/net8.0/projeto_bichinhoVirtual.dll
+/root/unity3d_udemy/bichinhoVirtual/projeto_bichinhoVirtual/bin/Debug/net8.0/projeto_bichinhoVirtual.pdb
+/root/unity3d_udemy/bichinhoVirtual/projeto_bichinhoVirtual/obj/Debug/net8.0/projeto_bichinhoVirtual.GeneratedMSBuildEditorConfig.editorconfig
+/root/unity3d_udemy/bichinhoVirtual/projeto_bichinhoVirtual/obj/Debug/net8.0/projeto_bichinhoVirtual.AssemblyInfoInputs.cache
+/root/unity3d_udemy/bichinhoVirtual/projeto_bichinhoVirtual/obj/Debug/net8.0/projeto_bichinhoVirtual.AssemblyInfo.cs
+/root/unity3d_udemy/bichinhoVirtual/projeto_bichinhoVirtual/obj/Debug/net8.0/projeto_bichinhoVirtual.csproj.CoreCompileInputs.cache
+/root/unity3d_udemy/bichinhoVirtual/projeto_bichinhoVirtual/obj/Debug/net8.0/projeto_bichinhoVirtual.sourcelink.json
+/root/unity3d_udemy/bichinhoVirtual/projeto_bichinhoVirtual/obj/Debug/net8.0/projeto_bichinhoVirtual.dll
+/root/unity3d_udemy/bichinhoVirtual/projeto_bichinhoVirtual/obj/Debug/net8.0/refint/projeto_bichinhoVirtual.dll
+/root/unity3d_udemy/bichinhoVirtual/projeto_bichinhoVirtual/obj/Debug/net8.0/projeto_bichinhoVirtual.pdb
+/root/unity3d_udemy/bichinhoVirtual/projeto_bichinhoVirtual/obj/Debug/net8.0/projeto_bichinhoVirtual.genruntimeconfig.cache
+/root/unity3d_udemy/bichinhoVirtual/projeto_bichinhoVirtual/obj/Debug/net8.0/ref/projeto_bichinhoVirtual.dll
