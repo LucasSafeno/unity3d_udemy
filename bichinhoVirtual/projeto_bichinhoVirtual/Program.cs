@@ -26,9 +26,14 @@ namespace MeuBichinhoVirtual
             float limpo = 100;
             float feliz = 100;
 
-            // DIminuir valores da caracteristicas do animal
+            // Diminuir valores da caracteristicas do animal
             int caracteristica = 0;
             Random rand = new Random();
+
+            string[] frases = new String[3];
+            frases[0] = "Nossa o dia foi muito legal, comi o sofá!!!";
+            frases[1] = "Que saudades passei o dia todo esperando você chegar!!";
+            frases[2] = "Hoje assistir o show da Xuxa ";
 
 
             Console.WriteLine("Meu Bichinho Virtual");
@@ -72,11 +77,7 @@ namespace MeuBichinhoVirtual
 
                 }
 
-                Console.Clear();
-                Console.WriteLine("Olá, {0} ", nomeDono);
-                Console.WriteLine("Alimentado : {0}", alimentado);
-                Console.WriteLine("Limpo : {0}", limpo);
-                Console.WriteLine("Feliz : {0}", feliz);
+    
                 if(alimentado > 40 && alimentado < 60)
                 {
                     Console.WriteLine("Eu estou faminto");
@@ -93,7 +94,13 @@ namespace MeuBichinhoVirtual
                     Console.WriteLine("Vamos brincar hoje!");
                 }
 
-                Console.WriteLine("{0} O que vamos fazer hoje ?", nomeDono);
+                
+                Thread.Sleep(2000);
+
+                Console.Clear();
+                Console.Write(frases[rand.Next(frases.Length)]);
+
+                Console.WriteLine("{0}, O que vamos fazer hoje ?", nomeDono);
                 Console.WriteLine("Brincar - Comer - Banho - NADA");
                 entrada = Console.ReadLine().ToLower();
 
